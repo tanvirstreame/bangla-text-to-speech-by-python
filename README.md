@@ -1,1 +1,3 @@
-# Bangla-Text-To-Speech-by-Python
+Bangla Text To Speech by Python
+
+Write bangla word to let your computer speak using python 
